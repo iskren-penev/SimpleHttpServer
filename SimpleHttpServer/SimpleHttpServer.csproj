@@ -43,6 +43,7 @@
     <Compile Include="Enums\HeaderType.cs" />
     <Compile Include="Enums\RequestMethod.cs" />
     <Compile Include="Enums\ResponseStatusCode.cs" />
+    <Compile Include="HttpProcessor.cs" />
     <Compile Include="HttpResponseBuilder.cs" />
     <Compile Include="Models\Cookie.cs" />
     <Compile Include="Models\CookieCollection.cs" />
